@@ -2,9 +2,10 @@
 
 1. Create user_db database.
 2. Configure config/database.js with credentials for your environment.
-3. On the command line run 'npm start'.
-4. In browser visit localhost:9000/setup.
-4. Make post request as per Post route below.
+3. On the command line run 'npm install'.
+4. On the command line run 'npm start'.
+5. In browser visit localhost:9000/setup.
+6. Make post request as per Post route below.
 
 ## Routes
 
