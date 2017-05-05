@@ -1,0 +1,24 @@
+{
+  "name": "user_api",
+  "version": "1.0.0",
+  "description": "Basic api to store user credentials",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "webpack": "^2.5.0"
+  }
+}
